@@ -1,0 +1,20 @@
+{
+  "name": "2nd_proj_to-do-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "add": "node index.js add",
+    "list": "node index.js list",
+    "done": "node index.js done",
+    "delete": "node index.js delete"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.2"
+  }
+}
