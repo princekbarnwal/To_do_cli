@@ -1,0 +1,7 @@
+# Dependencies
+node_modules/
+
+# App data (local only)
+todos.json
+
+* text=auto eol=lf
